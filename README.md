@@ -1,5 +1,5 @@
 Weather Forecasting Site
-<br/>
+<br/><br/>
 Welcome to the Weather Forecasting Site! This web application allows users to retrieve weather information based on location using the OpenWeatherMap API. Users can explore current weather conditions, including humidity, low and high temperatures, and wind speed. The site provides a 6-day weather forecast with hourly breakdowns for the current day.
 
 Technologies Used

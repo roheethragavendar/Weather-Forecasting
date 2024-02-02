@@ -1,8 +1,8 @@
-Weather Forecasting Site
+**Weather Forecasting Site**
 <br/><br/>
 Welcome to the Weather Forecasting Site! This web application allows users to retrieve weather information based on location using the OpenWeatherMap API. Users can explore current weather conditions, including humidity, low and high temperatures, and wind speed. The site provides a 6-day weather forecast with hourly breakdowns for the current day.
 
-Technologies Used
+**Technologies Used**
 OpenWeatherMap API: The site utilizes the OpenWeatherMap API to fetch accurate and up-to-date weather data for the specified locations.
 
 React JS: The front-end of the application is built using React JS, providing a dynamic and efficient user interface for seamless user interactions.
@@ -13,7 +13,7 @@ CSS: Cascading Style Sheets are employed to enhance the visual appeal and layout
 
 JavaScript: The scripting language powers the interactive features of the site, enabling dynamic content updates and smooth user interactions.
 
-Features
+**Features**
 Search by Location:
 
 Users can input a location to retrieve specific weather information for that area.
@@ -27,12 +27,14 @@ Hourly Breakdown:
 
 The current day's weather is broken down into 6-hour intervals, providing detailed information for the day.
 
-Getting Started
+**Getting Started**
+<br/><br/>
 Clone the repository:  https://github.com/roheethragavendar/Weather-Forecasting.git
+<br/>
 Start the development server:
 npm start
 
-Author
+**Author**
 <br/><br/>
 Roheeth Ragavendar.U
 <br/><br/>

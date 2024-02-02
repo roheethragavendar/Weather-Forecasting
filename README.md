@@ -15,6 +15,7 @@ CSS: Cascading Style Sheets are employed to enhance the visual appeal and layout
 JavaScript: The scripting language powers the interactive features of the site, enabling dynamic content updates and smooth user interactions.
 
 **Features**
+<br/><br/>
 Search by Location:
 
 Users can input a location to retrieve specific weather information for that area.

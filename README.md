@@ -3,6 +3,7 @@
 Welcome to the Weather Forecasting Site! This web application allows users to retrieve weather information based on location using the OpenWeatherMap API. Users can explore current weather conditions, including humidity, low and high temperatures, and wind speed. The site provides a 6-day weather forecast with hourly breakdowns for the current day.
 
 **Technologies Used**
+<br/><br/>
 OpenWeatherMap API: The site utilizes the OpenWeatherMap API to fetch accurate and up-to-date weather data for the specified locations.
 
 React JS: The front-end of the application is built using React JS, providing a dynamic and efficient user interface for seamless user interactions.
